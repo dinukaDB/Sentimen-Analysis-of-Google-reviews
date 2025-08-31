@@ -24,18 +24,18 @@ The system performs **sentiment analysis on Google Reviews** using classical mac
 
 ## 📂 Project Structure
 
-models/ # Trained ML models
-static/ # CSS, JS, images
-templates/ # HTML templates
-Trained model & dataset/ # Dataset and saved models
-venv/ # Virtual environment
-app.py # Main Flask application
-utils.py # Helper functions for preprocessing, model loading
+- models/ # Trained ML models
+- static/ # CSS, JS, images
+- templates/ # HTML templates
+- Trained model & dataset/ # Dataset and saved models
+- venv/ # Virtual environment
+- app.py # Main Flask application
+- utils.py # Helper functions for preprocessing, model loading
 
 ## ⚙️ Installation & Setup
 
-python -m venv venv
-source venv/bin/activate   # On Mac/Linux
-venv\Scripts\activate      # On Windows
-pip install -r requirements.txt
-python app.py
+- python -m venv venv
+- source venv/bin/activate   # On Mac/Linux
+- venv\Scripts\activate      # On Windows
+- pip install -r requirements.txt
+- python app.py
