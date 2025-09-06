@@ -39,3 +39,9 @@ The system performs **sentiment analysis on Google Reviews** using classical mac
 - venv\Scripts\activate      # On Windows
 - pip install -r requirements.txt
 - python app.py
+
+<img width="681" height="387" alt="Image" src="https://github.com/user-attachments/assets/c2a7f1bd-7a62-47c5-bf89-d354e23d9af5" />
+
+<img width="727" height="534" alt="Image" src="https://github.com/user-attachments/assets/220ef1c9-48f5-453a-820f-be9c68695419" />
+
+<img width="720" height="537" alt="Image" src="https://github.com/user-attachments/assets/c76cfee0-2712-4225-a643-ab9d31332930" />
